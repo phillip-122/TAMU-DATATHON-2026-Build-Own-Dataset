@@ -21,4 +21,4 @@ The included `participants.csv` contains responses from **36 real participants**
 
 **Fields retained outside the app:** counting-to-ten measurements, second 1–10 choices, additional unassigned numbers, and raw number entries preserve the broader collection. The final app uses coin sequences, the first 1–10 choice, and the 1–100 choice. Timing is not a model feature: computer rounds have no corresponding counting task. Different sequence lengths and optional responses reflect the evolving collection; equal-length prefixes do not eliminate possible differences between collection stages.
 
-**Limitations:** no population representativeness guaranteed; small n; possible participant selection biases and task instruction ambiguity. Add details on exactly when, where, and how consent was obtained before publishing.
+**Limitations:** no population representativeness guaranteed; small n; possible participant selection biases and task instruction ambiguity.
